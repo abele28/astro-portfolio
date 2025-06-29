@@ -10,5 +10,6 @@
   },
   "dependencies": {
     "astro": "^5.10.1"
-  }
+  },
+  "homepage": "https://github.com/abele28/astro-portfolio"
 }
